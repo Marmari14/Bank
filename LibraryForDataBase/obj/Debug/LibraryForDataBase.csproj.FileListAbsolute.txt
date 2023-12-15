@@ -1,0 +1,6 @@
+D:\учеба\УП 02.01\LibraryForDataBase\bin\Debug\LibraryForDataBase.dll
+D:\учеба\УП 02.01\LibraryForDataBase\bin\Debug\LibraryForDataBase.pdb
+D:\учеба\УП 02.01\LibraryForDataBase\obj\Debug\LibraryForDataBase.csproj.AssemblyReference.cache
+D:\учеба\УП 02.01\LibraryForDataBase\obj\Debug\LibraryForDataBase.csproj.CoreCompileInputs.cache
+D:\учеба\УП 02.01\LibraryForDataBase\obj\Debug\LibraryForDataBase.dll
+D:\учеба\УП 02.01\LibraryForDataBase\obj\Debug\LibraryForDataBase.pdb
